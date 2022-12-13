@@ -2,7 +2,7 @@
 - 👀 I’m interested in ... Contributing to the Community and learning alongside
 - 🌱 I’m currently learning ... Machine Learning
 - 💞️ I’m looking to collaborate on ... Projects
-- 📫 How to reach me ... @yd8421@srmist.edu.in
+- 📫 How to reach me ... @yd8421@gmail.edu.in
 
 <!---
 yd8421/yd8421 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
